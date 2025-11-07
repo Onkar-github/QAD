@@ -1,0 +1,111 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model triggers {
+  id             String    @id @db.Uuid
+  triggername    String?
+  prompt         String?
+  category       String?
+  createdAt      DateTime  @default(now()) @db.Timestamp(6)
+  lasttriggered  DateTime? @db.Timestamp(6)
+  promptoverview String?
+  status         String?   @default("Enable")
+  frequency      String?
+  alerts         alerts[]
+}
+
+model alert_rca {
+  id                  String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  alert_id            String    @db.Uuid
+  summary             String
+  root_cause          String
+  timeline            Json?
+  impacted_services   Json?
+  recommended_actions Json?
+  trends              Json?
+  performance_metrics Json?
+  severity            String?   @db.VarChar(50)
+  estimated_downtime  String?   @db.VarChar(100)
+  business_impact     String?
+  created_at          DateTime? @default(now()) @db.Timestamp(6)
+  originator          String?
+  alerts              alerts    @relation(fields: [alert_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+}
+
+model alerts {
+  id             String      @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  trigger_id     String      @db.Uuid
+  siteid         Int?
+  subdomain      String?
+  completedate   DateTime    @db.Date
+  alert_value    Decimal?    @db.Decimal
+  severity       String?     @default("medium")
+  status         String?     @default("open")
+  createdAt      DateTime?   @default(now()) @db.Timestamp(6)
+  updatedAt      DateTime?   @default(now()) @db.Timestamp(6)
+  user_id        String?     @db.VarChar
+  alertName      String?     @db.VarChar
+  analysis_dates String?
+  news           String?
+  alert_rca      alert_rca[]
+  triggers       triggers    @relation(fields: [trigger_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  users          users?      @relation(fields: [user_id], references: [user_id], onDelete: NoAction, onUpdate: NoAction)
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+model coresalesmetrics {
+  siteid                   Int?
+  createddate              DateTime? @db.Timestamp(6)
+  employeeid               Int?
+  salesdeviceid            Int?
+  grosscarcount            Int?
+  netcarcount              Int?
+  grosssalesamount         Decimal?  @db.Decimal(15, 2)
+  prepaidsale              Decimal?  @db.Decimal(13, 4)
+  recurringpayment         Decimal?  @db.Decimal(13, 4)
+  houseaccountchargeamount Decimal?  @db.Decimal(15, 2)
+  labourcount              Decimal?  @db.Decimal(15, 2)
+  labourcost               Decimal?  @db.Decimal(15, 2)
+  id                       Int?
+  subdomain                String?   @db.VarChar(100)
+  completedate             DateTime? @db.Timestamp(6)
+
+  @@ignore
+}
+
+model sites {
+  site_id      Int?
+  subdomain    String?   @db.VarChar
+  name         String?   @db.VarChar(255)
+  code         String?   @db.VarChar(50)
+  active       Int?
+  timezone     String?   @db.VarChar(100)
+  id           Int       @id
+  address1     String?   @db.VarChar
+  city         String?   @db.VarChar
+  state        String?   @db.VarChar
+  postal_code  String?   @db.VarChar
+  created_date DateTime? @db.Timestamp(6)
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model users {
+  user_id  String   @id @db.VarChar
+  password String   @db.VarChar
+  alerts   alerts[]
+}
+
+model plausible_rca {
+  id          Int     @id @default(autoincrement())
+  rootCause   String?
+  description String?
+  severity    String?
+  status      String?
+}

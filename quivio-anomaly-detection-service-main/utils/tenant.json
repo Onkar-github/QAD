@@ -1,0 +1,3490 @@
+[
+    {
+        "name":"Luv Car Wash",
+        "database":"luvcarwash_000457"
+    },
+    {
+        "name":"BlueWave",
+        "database":"bluewave_000567"
+    },
+    {
+        "name":"Magnolia",
+        "database":"magnolia_000414"
+    },
+    {
+        "name":"Champion Xpress CW",
+        "database":"championxpresscw_000216"
+    },
+    {
+        "name":"ModWash",
+        "database":"modwash_000239"
+    },
+    {
+        "name":"Big Dan's",
+        "database":"bigdans_000378"
+    },
+    {
+        "name":"Thoroughbred",
+        "database":"thoroughbredcw_000304"
+    },
+    {
+        "name":"Caliber Car Wash",
+        "database":"caliberocala_000153"
+    },
+    {
+        "name":"ClearWater",
+        "database":"clearwater_000397"
+    },
+    {
+        "name":"Sonnys Demo",
+        "database":"demo_client"
+    },
+    {
+        "name":"Splash Car Wash",
+        "database":"192616splash"
+    },
+    {
+        "name":"Tsunami Car Wash",
+        "database":"tsunamicarwash_000122"
+    },
+    {
+        "name":"Zips Express Car Wash",
+        "database":"zips_000468"
+    },
+    {
+        "name":"Rich's - Smart Stop",
+        "database":"richscw_000564"
+    },
+    {
+        "name":"Woodies",
+        "database":"woodys_000289"
+    },
+    {
+        "name":"Gate Express",
+        "database":"gateexpress_000618"
+    },
+    {
+        "name":"Wash U",
+        "database":"washu_000647"
+    },
+    {
+        "name":"Riptide",
+        "database":"riptideneuse_000337"
+    },
+    {
+        "name":"Mr Clean Car Wash",
+        "database":"mrcleancw_000329"
+    },
+    {
+        "name":"Mach 1 Express Wash",
+        "database":"zippycarwash_000145"
+    },
+    {
+        "name":"Big Peach Car Wash",
+        "database":"bigpeachcw_000300"
+    },
+    {
+        "name":"Haffners",
+        "database":"haffners_000014"
+    },
+    {
+        "name":"Sud Stop",
+        "database":"sudstop_000639"
+    },
+    {
+        "name":"Magic Tunnel Carwash",
+        "database":"magictunnel_000072"
+    },
+    {
+        "name":"Dale Shine Car Wash",
+        "database":"daleshine_000061"
+    },
+    {
+        "name":"Smitty's Car Wash",
+        "database":"smittyscw_000489"
+    },
+    {
+        "name":"Dash",
+        "database":"dash_000741"
+    },
+    {
+        "name":"Suds Deluxe",
+        "database":"sudsdeluxe_000305"
+    },
+    {
+        "name":"Wash Rite",
+        "database":"washrite_000380"
+    },
+    {
+        "name":"Gocarwash",
+        "database":"gocarwash_000415"
+    },
+    {
+        "name":"Tidal Wave Auto Spa",
+        "database":"genesis_000221"
+    },
+    {
+        "name":"Dirty Dog's Car Wash",
+        "database":"dirtydogs_000082"
+    },
+    {
+        "name":"Edge Express",
+        "database":"edgeexpress_000446"
+    },
+    {
+        "name":"Rocket Wash",
+        "database":"rocketwashnc_000309"
+    },
+    {
+        "name":"Heroes Car Wash",
+        "database":"carolinacarwash_000283"
+    },
+    {
+        "name":"Wash City",
+        "database":"washcity_000125"
+    },
+    {
+        "name":"El Car Wash",
+        "database":"elcarwash_000738"
+    },
+    {
+        "name":"Buckeye Car Wash",
+        "database":"buckeyecw_000744"
+    },
+    {
+        "name":"SMCC",
+        "database":"smcc_000182"
+    },
+    {
+        "name":"FoamWorks Express",
+        "database":"foamworks_000377"
+    },
+    {
+        "name":"Ultimate Shine Car Wash",
+        "database":"ultimateshinecw_000184"
+    },
+    {
+        "name":"Waters Car Wash",
+        "database":"waterscarwash_000245"
+    },
+    {
+        "name":"Wash Industries",
+        "database":"westchestercw_000036"
+    },
+    {
+        "name":"Champion CW",
+        "database":"championcarwash_000085"
+    },
+    {
+        "name":"Crystal Car Wash",
+        "database":"crystalcwau_000128"
+    },
+    {
+        "name":"Radiant Express Car Wash",
+        "database":"radiantcw_000133"
+    },
+    {
+        "name":"Weiss Guys",
+        "database":"160451weiss"
+    },
+    {
+        "name":"Cadillac Express Carwash",
+        "database":"cadillacexpresscw_000080"
+    },
+    {
+        "name":"Brite Brothers",
+        "database":"britebrothers_000760"
+    },
+    {
+        "name":"Scrubbles STL",
+        "database":"scrubblesstl_000578"
+    },
+    {
+        "name":"Scrubbles Express Wash",
+        "database":"scrubbles_000069"
+    },
+    {
+        "name":"Century Car Wash",
+        "database":"centurycarwash_000236"
+    },
+    {
+        "name":"Automation",
+        "database":"automation_000769"
+    },
+    {
+        "name":"All American Car Wash",
+        "database":"racerclassiccw_000389"
+    },
+    {
+        "name":"Spark Car Wash",
+        "database":"sparkcw_000745"
+    },
+    {
+        "name":"Royal Car Wash",
+        "database":"theroyalwash_000149"
+    },
+    {
+        "name":"Express Car Wash",
+        "database":"expresswashco1_000027"
+    },
+    {
+        "name":"Happy Car Wash",
+        "database":"happycarwash_000394"
+    },
+    {
+        "name":"TruShine",
+        "database":"trushine_000114"
+    },
+    {
+        "name":"All Washed Up",
+        "database":"allwashedup_000264"
+    },
+    {
+        "name":"Bubble Down",
+        "database":"bubbledown_000358"
+    },
+    {
+        "name":"Living Water",
+        "database":"livingwaters_000022"
+    },
+    {
+        "name":"New Day Car Wash",
+        "database":"newdaycw_000610"
+    },
+    {
+        "name":"Wash Up",
+        "database":"washup_000294"
+    },
+    {
+        "name":"Wash and Go",
+        "database":"washandgofl_000455"
+    },
+    {
+        "name":"Blue Iguana",
+        "database":"blueiguanacw_000349"
+    },
+    {
+        "name":"Lonestar Suds Express",
+        "database":"lonestarsuds_000315"
+    },
+    {
+        "name":"Magic Brush",
+        "database":"magicbrush_000533"
+    },
+    {
+        "name":"Clean",
+        "database":"clean_000473"
+    },
+    {
+        "name":"Top Dog Express",
+        "database":"topdogexpress_000215"
+    },
+    {
+        "name":"Snap Clean",
+        "database":"snapclean"
+    },
+    {
+        "name":"Rocket Wash",
+        "database":"rocketwash_000183"
+    },
+    {
+        "name":"Shammy's Unlimited",
+        "database":"shammysunlimited_000449"
+    },
+    {
+        "name":"Five Star",
+        "database":"fivestar_000150"
+    },
+    {
+        "name":"Go Shine",
+        "database":"goshine_000703"
+    },
+    {
+        "name":"Carwash Express Colorado",
+        "database":"carwashexpressco_000148"
+    },
+    {
+        "name":"Dicky's",
+        "database":"dickys_000583"
+    },
+    {
+        "name":"Snappy Car Wash",
+        "database":"snappyscarwash_000115"
+    },
+    {
+        "name":"Express Wash",
+        "database":"expresswash_000431"
+    },
+    {
+        "name":"Tip Top Car Wash",
+        "database":"tiptopcw_000668"
+    },
+    {
+        "name":"Carolina Shores",
+        "database":"carolinashores_000338"
+    },
+    {
+        "name":"Wash N Roll",
+        "database":"washnroll_000485"
+    },
+    {
+        "name":"Wet Rabbit Express Car Wash",
+        "database":"wetrabbitexpcw_000325"
+    },
+    {
+        "name":"Circle K",
+        "database":"circlek_000060"
+    },
+    {
+        "name":"Links Car Wash",
+        "database":"linkscw_000673"
+    },
+    {
+        "name":"Colonial Car Wash",
+        "database":"colonialcw_000420"
+    },
+    {
+        "name":"American Pride",
+        "database":"americanpride_000238"
+    },
+    {
+        "name":"Whitecap",
+        "database":"whitecap_000597"
+    },
+    {
+        "name":"Shortman Car Wash",
+        "database":"shortmancw_000600"
+    },
+    {
+        "name":"Aqua Shine Express",
+        "database":"revexpress_000340"
+    },
+    {
+        "name":"Elephant Car Wash",
+        "database":"elephantcw_000615"
+    },
+    {
+        "name":"Edge Express Car Wash",
+        "database":"edgeexpcarwash_000258"
+    },
+    {
+        "name":"Take 5 Car Wash",
+        "database":"quickandcleancw_000262"
+    },
+    {
+        "name":"Mint Express Carwash",
+        "database":"mintexpresscw_000248"
+    },
+    {
+        "name":"Four Seasons",
+        "database":"fourseasons_000739"
+    },
+    {
+        "name":"Splash",
+        "database":"splashfl_000574"
+    },
+    {
+        "name":"Wash Wizard",
+        "database":"washwizard_000252"
+    },
+    {
+        "name":"Wash 37135",
+        "database":"wash37135_000143"
+    },
+    {
+        "name":"Vibe Car Wash",
+        "database":"vibecw_000482"
+    },
+    {
+        "name":"San Diego Car Care Costa Verde",
+        "database":"sandiegocarcare_000024"
+    },
+    {
+        "name":"Papa Bear",
+        "database":"papabear_000353"
+    },
+    {
+        "name":"Feel Great Car Wash",
+        "database":"feelgoodcw_000632"
+    },
+    {
+        "name":"Sonic Suds",
+        "database":"sonicsuds_000319"
+    },
+    {
+        "name":"Rapids Express",
+        "database":"rapidsexp_000743"
+    },
+    {
+        "name":"Carmel Car Wash",
+        "database":"5031505carmel"
+    },
+    {
+        "name":"State Street Auto Wash",
+        "database":"statestautowash_000383"
+    },
+    {
+        "name":"Tiger Wash",
+        "database":"tigerwash_000588"
+    },
+    {
+        "name":"Nationwide Express Surrey",
+        "database":"nationwideexp_000560"
+    },
+    {
+        "name":"Riverside",
+        "database":"riverside_000010"
+    },
+    {
+        "name":"Wash N Go",
+        "database":"washngoor_000320"
+    },
+    {
+        "name":"Top Wash",
+        "database":"topwash_000333"
+    },
+    {
+        "name":"Infinity Hand Carwash",
+        "database":"australiacw1_000106"
+    },
+    {
+        "name":"Sammy's Express Car Wash",
+        "database":"sammysexpresscw_000254"
+    },
+    {
+        "name":"Raceway Car Wash",
+        "database":"racewaycw_000646"
+    },
+    {
+        "name":"Seaway Car Wash",
+        "database":"seawaycarwash_000181"
+    },
+    {
+        "name":"Wash N Go Ohio",
+        "database":"washngooh_000779"
+    },
+    {
+        "name":"Hurricane Bay Express",
+        "database":"000003_hurricane"
+    },
+    {
+        "name":"Hall of Fame",
+        "database":"halloffamecw_000586"
+    },
+    {
+        "name":"Mistic Express Car Wash",
+        "database":"147781mistic"
+    },
+    {
+        "name":"Castaway Car Wash",
+        "database":"iaislandcarwash_000198"
+    },
+    {
+        "name":"Controls Training Classroom",
+        "database":"training_000400"
+    },
+    {
+        "name":"Rich's Wash Dat",
+        "database":"richswashdat_000172"
+    },
+    {
+        "name":"John's Auto Spa",
+        "database":"johnsautospa_000372"
+    },
+    {
+        "name":"Googie",
+        "database":"acesamericacw_000175"
+    },
+    {
+        "name":"Mega Wash",
+        "database":"megawash_000675"
+    },
+    {
+        "name":"Cascade Car Wash",
+        "database":"cascadecw_000441"
+    },
+    {
+        "name":"Soapy Nobles",
+        "database":"soapynobles_000448"
+    },
+    {
+        "name":"Kiwi Car Wash",
+        "database":"kiwicw_000382"
+    },
+    {
+        "name":"Big River Car Wash",
+        "database":"bigrivercw_000344"
+    },
+    {
+        "name":"Parrot's Car Wash",
+        "database":"peppyscw_000491"
+    },
+    {
+        "name":"Detricks",
+        "database":"detricks_000422"
+    },
+    {
+        "name":"Southern Shine Express",
+        "database":"southernshine_000690"
+    },
+    {
+        "name":"Go Clean Car Wash",
+        "database":"gocleancw_000426"
+    },
+    {
+        "name":"Floris Car Wash",
+        "database":"floriscarwash_000233"
+    },
+    {
+        "name":"Spectacular Car Wash",
+        "database":"spectacularcw_000429"
+    },
+    {
+        "name":"Glacier Express",
+        "database":"glacierexpress_000240"
+    },
+    {
+        "name":"Road Runner Express",
+        "database":"midtowncw_000328"
+    },
+    {
+        "name":"Huzzy's Car Wash",
+        "database":"huzzyscw_000571"
+    },
+    {
+        "name":"Super Duck",
+        "database":"superduck_000438"
+    },
+    {
+        "name":"Rocket Wash Guatemala",
+        "database":"rocketguatemala_000605"
+    },
+    {
+        "name":"Aqua Blue Car Wash",
+        "database":"aquawave_000292"
+    },
+    {
+        "name":"Drip Car Wash",
+        "database":"dripcw_000575"
+    },
+    {
+        "name":"Champions Car Wash",
+        "database":"championscarwash_000065"
+    },
+    {
+        "name":"Splash Zone Car Wash",
+        "database":"splashzonecw_000335"
+    },
+    {
+        "name":"Buff it Auto Wash",
+        "database":"buffitautowash_000111"
+    },
+    {
+        "name":"Otto's Express  Car Wash",
+        "database":"ottosexpresscw_000299"
+    },
+    {
+        "name":"Dino Dash Wash",
+        "database":"dinodashcw_000486"
+    },
+    {
+        "name":"Cliff's Car Wash",
+        "database":"000004_cliff"
+    },
+    {
+        "name":"Volvo",
+        "database":"volvo_000075"
+    },
+    {
+        "name":"Wild Bllue Car Wash",
+        "database":"wildblue_000156"
+    },
+    {
+        "name":"JJscarwash",
+        "database":"jjscarwash_000042"
+    },
+    {
+        "name":"Jules Car Wash",
+        "database":"kazbour_000007"
+    },
+    {
+        "name":"Green Valley Grocery",
+        "database":"greenvalleygrocery_000758"
+    },
+    {
+        "name":"Ollie Wash",
+        "database":"olliewash_000159"
+    },
+    {
+        "name":"Mako Express",
+        "database":"makoexp_000694"
+    },
+    {
+        "name":"Roadrunner",
+        "database":"roadrunner_000462"
+    },
+    {
+        "name":"Soapatopia",
+        "database":"ustop_000276"
+    },
+    {
+        "name":"Rinse My Ride",
+        "database":"rinsemyride_000430"
+    },
+    {
+        "name":"Cosmic Express",
+        "database":"cosmicexpress_000633"
+    },
+    {
+        "name":"Blue Penguin Car Wash",
+        "database":"bluepenguincw_000433"
+    },
+    {
+        "name":"Hogg Wash",
+        "database":"hoggwash_000092"
+    },
+    {
+        "name":"Wash N Go Capin",
+        "database":"washngoca_000606"
+    },
+    {
+        "name":"Cool Clean Car Wash",
+        "database":"coolcleancarwash_000247"
+    },
+    {
+        "name":"Wash Ashore Carwash",
+        "database":"washashorecw_000139"
+    },
+    {
+        "name":"Aqua Breeze Car Wash",
+        "database":"aquabreeze_000406"
+    },
+    {
+        "name":"IDS Car Wash",
+        "database":"idscw_000674"
+    },
+    {
+        "name":"Evolution Car Wash",
+        "database":"evolutioncw_000210"
+    },
+    {
+        "name":"Valet Car Wash",
+        "database":"valetcw_000706"
+    },
+    {
+        "name":"Mountain Express",
+        "database":"mountainexp_000478"
+    },
+    {
+        "name":"Dino Express",
+        "database":"dinoexpress_000643"
+    },
+    {
+        "name":"Soapies",
+        "database":"soapiescw_000063"
+    },
+    {
+        "name":"Soak",
+        "database":"soakaustralia_000409"
+    },
+    {
+        "name":"Fusion Express",
+        "database":"synergycw_000177"
+    },
+    {
+        "name":"Superfine Auto Spa",
+        "database":"superfineautospa_000443"
+    },
+    {
+        "name":"Firehouse Car Wash",
+        "database":"1003079firehouse"
+    },
+    {
+        "name":"Texas Pride Car Wash",
+        "database":"texaspridecw_000612"
+    },
+    {
+        "name":"Winnemucca",
+        "database":"winnemucca_000514"
+    },
+    {
+        "name":"Mountain Edge",
+        "database":"mountainedge_000549"
+    },
+    {
+        "name":"Freddie's Auto Spa",
+        "database":"freddiesautowash_000747"
+    },
+    {
+        "name":"Ride Thru",
+        "database":"ridethru_000552"
+    },
+    {
+        "name":"American Car Wash",
+        "database":"138050american"
+    },
+    {
+        "name":"Brickyard Car Wash",
+        "database":"brickyardcw_000187"
+    },
+    {
+        "name":"Rock N Roll Express Car Wash",
+        "database":"rocknrollexpress_000224"
+    },
+    {
+        "name":"BluWave FL",
+        "database":"bluewavefl_000622"
+    },
+    {
+        "name":"Legacy Express Wash",
+        "database":"aarons_000265"
+    },
+    {
+        "name":"Red Rocket Car Wash #2",
+        "database":"112539advanced"
+    },
+    {
+        "name":"Express On Vaughn",
+        "database":"expressonvaghn_000523"
+    },
+    {
+        "name":"Paradise Bay Express",
+        "database":"paradisebay_000076"
+    },
+    {
+        "name":"Presidential Wash",
+        "database":"presidentialcw_000589"
+    },
+    {
+        "name":"Varsity Carwash",
+        "database":"varsitycarwash_000227"
+    },
+    {
+        "name":"Clearwash Airport",
+        "database":"clearwashb"
+    },
+    {
+        "name":"Splash And Dash",
+        "database":"steese"
+    },
+    {
+        "name":"Fast and Friendly",
+        "database":"fastandfriendly_000390"
+    },
+    {
+        "name":"Joe's Car Wash",
+        "database":"joescw_000659"
+    },
+    {
+        "name":"Launch Car Wash",
+        "database":"launchcw_000311"
+    },
+    {
+        "name":"Car Wash Cafe",
+        "database":"carwashcafe_000425"
+    },
+    {
+        "name":"Paradise Falls Carwash",
+        "database":"paradisefallscw_000194"
+    },
+    {
+        "name":"Southern Shine Car Wash",
+        "database":"southerrshinecw_000692"
+    },
+    {
+        "name":"Zoom Express Car Wash",
+        "database":"zoomexpcw_000662"
+    },
+    {
+        "name":"Quick Jet Car Wash",
+        "database":"quickjetcw_000314"
+    },
+    {
+        "name":"EZ Express",
+        "database":"ezexpress_000428"
+    },
+    {
+        "name":"Hitech Autocare",
+        "database":"hitechautocare_000052"
+    },
+    {
+        "name":"Go Car Wash",
+        "database":"gocarwash_000165"
+    },
+    {
+        "name":"Katie's Car Wash",
+        "database":"katiescw_000665"
+    },
+    {
+        "name":"Jerry's Car Wash",
+        "database":"jerryscw_000698"
+    },
+    {
+        "name":"Soapy Shark",
+        "database":"soapyshark_000467"
+    },
+    {
+        "name":"Moyka 441",
+        "database":"moyoka_000134"
+    },
+    {
+        "name":"Go Green N Clean1",
+        "database":"gogreennclean_000054"
+    },
+    {
+        "name":"Aloha Car Wash",
+        "database":"alohacw_000323"
+    },
+    {
+        "name":"Mr D Car Wash",
+        "database":"mrdcarwash_000205"
+    },
+    {
+        "name":"Autobahn Auto Care Center",
+        "database":"autobahnauto_000404"
+    },
+    {
+        "name":"Pappy's Express Carwash",
+        "database":"pappysexpcw_000768"
+    },
+    {
+        "name":"Sudzy's Car Wash",
+        "database":"sudsyscarwash_000327"
+    },
+    {
+        "name":"Coastal Car Wash",
+        "database":"coastalcarwash_000096"
+    },
+    {
+        "name":"Oasis Auto Spa",
+        "database":"oasisautospa_000475"
+    },
+    {
+        "name":"Prestige Auto  Spa",
+        "database":"prestigeautospa_000140"
+    },
+    {
+        "name":"Champs Car Wash",
+        "database":"champscarwash_000290"
+    },
+    {
+        "name":"Speedy Pete's",
+        "database":"speedypetescw_000330"
+    },
+    {
+        "name":"Citrus Valley Car Wash",
+        "database":"greenvalleycw_000707"
+    },
+    {
+        "name":"Express Jet Car Wash",
+        "database":"expressjet_000102"
+    },
+    {
+        "name":"Clean Wash Club",
+        "database":"cleanwashclub_000742"
+    },
+    {
+        "name":"Blue Rain Express",
+        "database":"bluerainexp_000678"
+    },
+    {
+        "name":"Soak City Car Wash",
+        "database":"soakcitycw_000334"
+    },
+    {
+        "name":"SasqWash",
+        "database":"sunshineexp_000444"
+    },
+    {
+        "name":"Bubble Bay",
+        "database":"bubblebay_000613"
+    },
+    {
+        "name":"TLC Car Wash",
+        "database":"3dollarcarwash_000146"
+    },
+    {
+        "name":"Caruso's Car Care",
+        "database":"carusoscarcare_000515"
+    },
+    {
+        "name":"The Auto Spa",
+        "database":"mainstreet_000067"
+    },
+    {
+        "name":"Big Steve's Car Wash",
+        "database":"16135bigsteve"
+    },
+    {
+        "name":"Brown Bear",
+        "database":"brownbear_000616"
+    },
+    {
+        "name":"Basha Magical Touch Car Wash",
+        "database":"bashamagical_000650"
+    },
+    {
+        "name":"Blu Coast Car Wash",
+        "database":"blucoastcw_000780"
+    },
+    {
+        "name":"Wave Auto Wash",
+        "database":"anchorcw_000452"
+    },
+    {
+        "name":"Car Wash Company",
+        "database":"carwashcompanymv_000620"
+    },
+    {
+        "name":"Super Splash Carwash",
+        "database":"supersplishsplash_000385"
+    },
+    {
+        "name":"The Car Wash Company",
+        "database":"carwashcompany_000521"
+    },
+    {
+        "name":"Speedy Falcon Car Wash",
+        "database":"speedyfalcon"
+    },
+    {
+        "name":"Superior Shine Car Wash",
+        "database":"superiorshinecw_000192"
+    },
+    {
+        "name":"Tru Car Wash",
+        "database":"trucarwash_000391"
+    },
+    {
+        "name":"Wow Car Wash",
+        "database":"wowcarwash_000158"
+    },
+    {
+        "name":"Valley View Express Wash",
+        "database":"valleyviewew_000195"
+    },
+    {
+        "name":"Grand Prix Car Wash",
+        "database":"grandprix"
+    },
+    {
+        "name":"Super 4 Season Car Wash",
+        "database":"107912supervalue"
+    },
+    {
+        "name":"Twins",
+        "database":"doubles_000498"
+    },
+    {
+        "name":"Express Auto Wash",
+        "database":"wilkinsexpress"
+    },
+    {
+        "name":"Glasshouse Autospa",
+        "database":"glasshouseautospa_000163"
+    },
+    {
+        "name":"Wash Kings",
+        "database":"washkings_000731"
+    },
+    {
+        "name":"The $3 Car Wash",
+        "database":"1003646autowash"
+    },
+    {
+        "name":"Pride C",
+        "database":"pridec_000401"
+    },
+    {
+        "name":"Weber Wash & Lube",
+        "database":"weberwash_000038"
+    },
+    {
+        "name":"Dolphin Xpress",
+        "database":"palmharbor_000537"
+    },
+    {
+        "name":"Total Package Car Wash",
+        "database":"totalpackagecw_000206"
+    },
+    {
+        "name":"Joe's Premium Car Wash",
+        "database":"joespremiumcw_000369"
+    },
+    {
+        "name":"Rolling Thunder",
+        "database":"rollingthunder_000507"
+    },
+    {
+        "name":"Jallo Car Wash",
+        "database":"jallocw_000405"
+    },
+    {
+        "name":"Gallo Car Wash",
+        "database":"gallocw_000541"
+    },
+    {
+        "name":"Southern Palms Car Wash",
+        "database":"southerpalms_000100"
+    },
+    {
+        "name":"Moby's Car Wash",
+        "database":"martintowncw_000477"
+    },
+    {
+        "name":"Go Clean Pensacola",
+        "database":"5017238goclean"
+    },
+    {
+        "name":"Aqua Bubble Car Wash",
+        "database":"aquablue_000062"
+    },
+    {
+        "name":"Cajun Clean",
+        "database":"cajunclean_000175"
+    },
+    {
+        "name":"Go Touchless Car Wash",
+        "database":"gotouchlesscw_000708"
+    },
+    {
+        "name":"Evanston Car Wash",
+        "database":"evanstoncw_000480"
+    },
+    {
+        "name":"Bamboo Carwash",
+        "database":"bamboocarwash_000144"
+    },
+    {
+        "name":"Fast Trac",
+        "database":"fasttrack_000411"
+    },
+    {
+        "name":"Mr. B's Car Wash",
+        "database":"mrbs"
+    },
+    {
+        "name":"Aggieland Express",
+        "database":"5024577greens"
+    },
+    {
+        "name":"Fresh Wash",
+        "database":"braseltonexpress_000339"
+    },
+    {
+        "name":"Dr. Car Wash Plus Pecan Grove",
+        "database":"5031881pecan"
+    },
+    {
+        "name":"Blu Wave Express Wash",
+        "database":"bluewaveexp_000379"
+    },
+    {
+        "name":"Monsters Express LLC",
+        "database":"monstersexpress_000220"
+    },
+    {
+        "name":"Vision Car Wash",
+        "database":"visioncwnm_000749"
+    },
+    {
+        "name":"Jammin Car Wash",
+        "database":"jammincw_000186"
+    },
+    {
+        "name":"Solar City",
+        "database":"solarcity_000522"
+    },
+    {
+        "name":"Cool River Express Car Wash",
+        "database":"coolriverexpresscw_000189"
+    },
+    {
+        "name":"ZAK's Car Wash",
+        "database":"zakscw_000456"
+    },
+    {
+        "name":"Soapy Saddles",
+        "database":"washup_000226"
+    },
+    {
+        "name":"Mojo Xpress Wash",
+        "database":"mojoxpresswash_000048"
+    },
+    {
+        "name":"Super Shine Car Wash",
+        "database":"supershinecw_000658"
+    },
+    {
+        "name":"Brookhurst Express Car Wash",
+        "database":"brookhurstexpresscw_000235"
+    },
+    {
+        "name":"Shafter Car Wash",
+        "database":"shaftercw_000627"
+    },
+    {
+        "name":"Avatar",
+        "database":"avatar_000499"
+    },
+    {
+        "name":"Overflow Express Wash",
+        "database":"overflowexpress_000089"
+    },
+    {
+        "name":"Blue Sky Englewood",
+        "database":"blueskycw_000466"
+    },
+    {
+        "name":"Sonoran Express Car Wash",
+        "database":"sonoranexpress_000053"
+    },
+    {
+        "name":"Monkey Shine",
+        "database":"5025495monkey"
+    },
+    {
+        "name":"Planet Oil",
+        "database":"towncenterauto_000471"
+    },
+    {
+        "name":"Encino Car Wash",
+        "database":"encinocw_000505"
+    },
+    {
+        "name":"Speeds Car Wash",
+        "database":"speedscarwash_000284"
+    },
+    {
+        "name":"Platinum Auto Spa",
+        "database":"platinumautospa_000207"
+    },
+    {
+        "name":"Uncle Charlies",
+        "database":"unclecharlies_000603"
+    },
+    {
+        "name":"Auto Spa Express",
+        "database":"autospaexp_000474"
+    },
+    {
+        "name":"Car Pride Auto Spa",
+        "database":"royalwindsor"
+    },
+    {
+        "name":"Shine Car Wash Caf\u00c3\u00a9",
+        "database":"shinecwcafe_000371"
+    },
+    {
+        "name":"Ultimate Car Wash (North Country Club)",
+        "database":"ultimateok"
+    },
+    {
+        "name":"Kind Car Wash",
+        "database":"kindcw_000508"
+    },
+    {
+        "name":"Key Carwash",
+        "database":"keycw_000790"
+    },
+    {
+        "name":"Russell Speeders Avon",
+        "database":"russellspeeders"
+    },
+    {
+        "name":"Sasquatch Carwash",
+        "database":"sasquatch_000770"
+    },
+    {
+        "name":"Shine N Go",
+        "database":"shinengo_000174"
+    },
+    {
+        "name":"Lindstrom Car Wash",
+        "database":"1003711lindstrom"
+    },
+    {
+        "name":"Capitol Car Wash",
+        "database":"capitolcw_000542"
+    },
+    {
+        "name":"Frankie's Car Wash",
+        "database":"frankiescw_000573"
+    },
+    {
+        "name":"Station Auto Wash",
+        "database":"stationautowash_000440"
+    },
+    {
+        "name":"Mega Car Wash",
+        "database":"pcmat"
+    },
+    {
+        "name":"Xcell Auto Spa",
+        "database":"boyntonbeachbp_000101"
+    },
+    {
+        "name":"Mr. Suds Car Wash",
+        "database":"mrsuds_000017"
+    },
+    {
+        "name":"Alpine Shell",
+        "database":"alpineshell_000609"
+    },
+    {
+        "name":"Arco Wash",
+        "database":"arcowash_000251"
+    },
+    {
+        "name":"Adam's Auto Wash Goldsboro",
+        "database":"adamscw"
+    },
+    {
+        "name":"EZ Car Wash",
+        "database":"ezcarwash_000374"
+    },
+    {
+        "name":"Finish Line Car Wash",
+        "database":"finishlinetx_000142"
+    },
+    {
+        "name":"Pines Express Car Wash",
+        "database":"132759carsplash"
+    },
+    {
+        "name":"U S Car Wash",
+        "database":"bluewavecw_000511"
+    },
+    {
+        "name":"The Pearl Car Wash",
+        "database":"pearlcw_000793"
+    },
+    {
+        "name":"Blu Palm Express",
+        "database":"blupalmexpress_000293"
+    },
+    {
+        "name":"Rialto Car Wash",
+        "database":"rialtoarcocw_000773"
+    },
+    {
+        "name":"Touch & Go Car Wash",
+        "database":"touchandgo_000041"
+    },
+    {
+        "name":"Maui Oil",
+        "database":"mauioil_000677"
+    },
+    {
+        "name":"Saratoga Honda",
+        "database":"saratogahonda_000546"
+    },
+    {
+        "name":"Fabulous Freddy's",
+        "database":"fabulousfreddys_000576"
+    },
+    {
+        "name":"Velocity Car Wash",
+        "database":"championvernal_000213"
+    },
+    {
+        "name":"Belmont Car Wash",
+        "database":"73223banks"
+    },
+    {
+        "name":"Personal Pit Stop",
+        "database":"personalpitstop_000709"
+    },
+    {
+        "name":"Shine Shack Car Wash",
+        "database":"shineshack_000021"
+    },
+    {
+        "name":"Boca Best Car Wash",
+        "database":"bocabestcarwash_000109"
+    },
+    {
+        "name":"Crystal Clean Auto Spa",
+        "database":"crystalclean_000481"
+    },
+    {
+        "name":"Superior Hwy 6 Carwash",
+        "database":"superiorcarwash"
+    },
+    {
+        "name":"University Park Auto SPA",
+        "database":"cleanmachine"
+    },
+    {
+        "name":"BlueSky SuperWash",
+        "database":"blueskysuperwash_000796"
+    },
+    {
+        "name":"BMW",
+        "database":"bmwpp_000296"
+    },
+    {
+        "name":"KC Lodi",
+        "database":"kclodi_000066"
+    },
+    {
+        "name":"Monster Car Wash",
+        "database":"monstercw_000412"
+    },
+    {
+        "name":"The Shine Center",
+        "database":"theshinecenter_000776"
+    },
+    {
+        "name":"Evergreen Car Wash",
+        "database":"evergreen"
+    },
+    {
+        "name":"Volunteer Auto Wash",
+        "database":"volunteerauto_000680"
+    },
+    {
+        "name":"Wish Wash 7",
+        "database":"5028893university"
+    },
+    {
+        "name":"Snappy Kedzie Express Wash",
+        "database":"snappykedzieew_000336"
+    },
+    {
+        "name":"Super Duper",
+        "database":"superduper_000580"
+    },
+    {
+        "name":"Venice Car Wash",
+        "database":"venicecarwash"
+    },
+    {
+        "name":"Big Horn Car Wash",
+        "database":"bighorncw_000712"
+    },
+    {
+        "name":"Washed on James",
+        "database":"washedonjames_000112"
+    },
+    {
+        "name":"Imperial Car Wash",
+        "database":"imperialcw_000484"
+    },
+    {
+        "name":"Squeaky Clean Car Wash",
+        "database":"123717squeaky"
+    },
+    {
+        "name":"Champion Car Wash",
+        "database":"championcw_000031"
+    },
+    {
+        "name":"Lexus Grapevine",
+        "database":"lexusgrapevine_000649"
+    },
+    {
+        "name":"Dix Hill Car Wash New",
+        "database":"dixhillscw_000517"
+    },
+    {
+        "name":"Xtreme Clean",
+        "database":"xtremeclean_000799"
+    },
+    {
+        "name":"Nicholasville Cw",
+        "database":"nicholasville"
+    },
+    {
+        "name":"Sullys Super Shine",
+        "database":"sullysupershine_000683"
+    },
+    {
+        "name":"In-N-Out Car Wash",
+        "database":"kentoncw_000450"
+    },
+    {
+        "name":"Water Gap Car Wash",
+        "database":"182053watergap"
+    },
+    {
+        "name":"Sunrise Car Wash",
+        "database":"sunrisecw_000343"
+    },
+    {
+        "name":"Buffalo Front Car Wash",
+        "database":"buffalofrontcw_000715"
+    },
+    {
+        "name":"Havasu Express",
+        "database":"lakehavasuexp_000487"
+    },
+    {
+        "name":"BobbyandSteves",
+        "database":"bobbyandsteves_000047"
+    },
+    {
+        "name":"Hercules Express Wash",
+        "database":"elitecare_000384"
+    },
+    {
+        "name":"Classic Clean Car Wash",
+        "database":"classiccleancw_000750"
+    },
+    {
+        "name":"Car Wash Palace",
+        "database":"carwashpalace_000151"
+    },
+    {
+        "name":"Classy Chassie Car Wash",
+        "database":"181747classy"
+    },
+    {
+        "name":"Titus Express",
+        "database":"titusexpress_000653"
+    },
+    {
+        "name":"Gamebird Pahrump Circle K",
+        "database":"gamebird_000520"
+    },
+    {
+        "name":"Dublin Wash",
+        "database":"dublinwash_000802"
+    },
+    {
+        "name":"Lexus of Glendale",
+        "database":"lexusofglendale_000073"
+    },
+    {
+        "name":"Wash N Go Arizona",
+        "database":"washngoaz_000418"
+    },
+    {
+        "name":"Kwik N Clean Car Wash",
+        "database":"kwikncleancw_000782"
+    },
+    {
+        "name":"Kwik Car Wash",
+        "database":"186961superior"
+    },
+    {
+        "name":"Pahrump Station",
+        "database":"pahrumpstation_000686"
+    },
+    {
+        "name":"Oasis",
+        "database":"oasis_000555"
+    },
+    {
+        "name":"Classic Car Wash",
+        "database":"classic_000005"
+    },
+    {
+        "name":"Grime Scene",
+        "database":"grimescene_000454"
+    },
+    {
+        "name":"Turnpike Car Wash",
+        "database":"194766turnpike"
+    },
+    {
+        "name":"Express Tunnel",
+        "database":"expresstunnelcw_000348"
+    },
+    {
+        "name":"Cruise Car Wash",
+        "database":"cruisecw_000718"
+    },
+    {
+        "name":"Carnation Auto Spa",
+        "database":"carnationautospa_000352"
+    },
+    {
+        "name":"Magic Tunnel Car Wash",
+        "database":"magictunnelcw_000721"
+    },
+    {
+        "name":"Coral Springs Classic Car Wash",
+        "database":"coralspringscw_000119"
+    },
+    {
+        "name":"Mr Klean Car Wash",
+        "database":"shortcompany"
+    },
+    {
+        "name":"Splash Auto Wash",
+        "database":"splashautowash_000490"
+    },
+    {
+        "name":"Classic Auto Wash",
+        "database":"classicautowash_000387"
+    },
+    {
+        "name":"Diamond Express Auto Wash",
+        "database":"diamondexpauto_000753"
+    },
+    {
+        "name":"Clean Wheels",
+        "database":"cleanwheels_000154"
+    },
+    {
+        "name":"Colorado Auto Wash",
+        "database":"187147colorado"
+    },
+    {
+        "name":"The Master Cleaner Car Wash",
+        "database":"mastercleanercw_000656"
+    },
+    {
+        "name":"Matick Auto Wash",
+        "database":"matickautowas_000805"
+    },
+    {
+        "name":"Park Place Car Wash",
+        "database":"parkplacecw_000308"
+    },
+    {
+        "name":"H2O Express Car Wash",
+        "database":"h2oexpresscw_000421"
+    },
+    {
+        "name":"513 Wash",
+        "database":"513wash_000785"
+    },
+    {
+        "name":"Bubbas Express Car Wash",
+        "database":"bubbasexpresscw_000191"
+    },
+    {
+        "name":"Staten Island Auto Bath Inc",
+        "database":"104442autobath"
+    },
+    {
+        "name":"Galaxy Car Wash",
+        "database":"galaxycw_000689"
+    },
+    {
+        "name":"Lickety Split Express",
+        "database":"licketysplitexp_000558"
+    },
+    {
+        "name":"Soapy J's",
+        "database":"soapy_000006"
+    },
+    {
+        "name":"Rocket Car Wash",
+        "database":"85106michiana"
+    },
+    {
+        "name":"Supershine",
+        "database":"supershineaz_000356"
+    },
+    {
+        "name":"VIP Car Wash & Detail",
+        "database":"vipcw_000724"
+    },
+    {
+        "name":"Cool Sudz Car Wash",
+        "database":"coolsudzcw_000625"
+    },
+    {
+        "name":"Liquid Sunshine",
+        "database":"liquidsunshine_000493"
+    },
+    {
+        "name":"Waterways Car Spa",
+        "database":"waterwayscarspa_000270"
+    },
+    {
+        "name":"BJ Park",
+        "database":"bjpark_000756"
+    },
+    {
+        "name":"Rich's Car Wash",
+        "database":"richscarwash_000157"
+    },
+    {
+        "name":"Country Blues",
+        "database":"palscarwash"
+    },
+    {
+        "name":"Swift Car Wash",
+        "database":"ranchocw_000526"
+    },
+    {
+        "name":"Zee Car Wash",
+        "database":"zeecw_000808"
+    },
+    {
+        "name":"Minit Man Car Wash",
+        "database":"minitmanlube_000079"
+    },
+    {
+        "name":"Fastlane Express Car Wash",
+        "database":"109881short"
+    },
+    {
+        "name":"Mercedez Benz of Easton",
+        "database":"mercedesbenzeaston_000562"
+    },
+    {
+        "name":"Ford Road Car Wash",
+        "database":"fordroadcw_000592"
+    },
+    {
+        "name":"Rogue Car Wash",
+        "database":"grantspass_000460"
+    },
+    {
+        "name":"Fast Lap Car Wash",
+        "database":"fastlapcw_000230"
+    },
+    {
+        "name":"Superior Almeda Car Wash",
+        "database":"46303superior"
+    },
+    {
+        "name":"BuggyBath",
+        "database":"buggybath_000045"
+    },
+    {
+        "name":"IKO Car Wash",
+        "database":"ikocarwash_000359"
+    },
+    {
+        "name":"412 Somerset",
+        "database":"412somerset_000727"
+    },
+    {
+        "name":"Big Man Washes",
+        "database":"bigmanwashes_000126"
+    },
+    {
+        "name":"Local Car Wash",
+        "database":"localcarwash_000028"
+    },
+    {
+        "name":"Let It Shine",
+        "database":"letitshine_000628"
+    },
+    {
+        "name":"Clean Car Wash",
+        "database":"cleancarwash_000496"
+    },
+    {
+        "name":"Firehose Car Wash",
+        "database":"firehosecw_000274"
+    },
+    {
+        "name":"Some Guys Car Wash",
+        "database":"greenwave"
+    },
+    {
+        "name":"Ocean Express",
+        "database":"oceansexp_000393"
+    },
+    {
+        "name":"Blu Swan",
+        "database":"bluswan_000759"
+    },
+    {
+        "name":"Encinitas Car Wash",
+        "database":"encinitascw_000162"
+    },
+    {
+        "name":"Crosswater Car Wash",
+        "database":"crosswater_000037"
+    },
+    {
+        "name":"Sunny Daze Car Wash",
+        "database":"sunnydazecw_000529"
+    },
+    {
+        "name":"Encino Auto Spa",
+        "database":"11331encino"
+    },
+    {
+        "name":"Bulldog Express",
+        "database":"bulldogexp_000695"
+    },
+    {
+        "name":"Flex Wash",
+        "database":"flexwash_000565"
+    },
+    {
+        "name":"Alpine Wash",
+        "database":"alpinecarwash_000087"
+    },
+    {
+        "name":"Raccoon Express Car Wash",
+        "database":"5029060raccoon"
+    },
+    {
+        "name":"Buster's Car Wash",
+        "database":"busterscw_000595"
+    },
+    {
+        "name":"Vic's Express",
+        "database":"vicsexpress_000463"
+    },
+    {
+        "name":"Sandusky Clean Scene",
+        "database":"alton"
+    },
+    {
+        "name":"Super Heros Express Carwash",
+        "database":"superherosexpresscw_000362"
+    },
+    {
+        "name":"Bubble Brothers FL",
+        "database":"bubblebrothersfl_000730"
+    },
+    {
+        "name":"Big Kahuna Lewisville",
+        "database":"bigkahunalewisville_000129"
+    },
+    {
+        "name":"Louisville Honda World",
+        "database":"1003569honda"
+    },
+    {
+        "name":"Time to Shine",
+        "database":"timetoshine_000631"
+    },
+    {
+        "name":"Vortex Car Wash",
+        "database":"vortexcw_000500"
+    },
+    {
+        "name":"Atlantic Express",
+        "database":"cudahycw_000277"
+    },
+    {
+        "name":"Soap City",
+        "database":"soapcity_000396"
+    },
+    {
+        "name":"Swift Car Wash",
+        "database":"swiftcw_000762"
+    },
+    {
+        "name":"Aloha Car Wash",
+        "database":"183765aloha"
+    },
+    {
+        "name":"Aqua Car Club",
+        "database":"solca_000532"
+    },
+    {
+        "name":"Splash Car Wash",
+        "database":"splashcarwash_000318"
+    },
+    {
+        "name":"Landshark Express Wash & Detail",
+        "database":"landsharkcw_000202"
+    },
+    {
+        "name":"Aqua Express Lawton",
+        "database":"sheridanexpress"
+    },
+    {
+        "name":"National Tire & Battery",
+        "database":"nationaltirebattery_000090"
+    },
+    {
+        "name":"Popp's Express Car Wash",
+        "database":"80495rich"
+    },
+    {
+        "name":"Deep Clean Car Wash",
+        "database":"highway80cw_000598"
+    },
+    {
+        "name":"Newport auto spa",
+        "database":"superior76_000242"
+    },
+    {
+        "name":"Quality Car Wash",
+        "database":"106053quality"
+    },
+    {
+        "name":"Skyline Express Carwash",
+        "database":"skylineexpresscw_000365"
+    },
+    {
+        "name":"City View Car Wash",
+        "database":"cityviewcw_000733"
+    },
+    {
+        "name":"Hydro Express Wash",
+        "database":"63513dolphin"
+    },
+    {
+        "name":"Charliee's Car Wash",
+        "database":"charliescw_000634"
+    },
+    {
+        "name":"Pure Car Wash",
+        "database":"purecw_000503"
+    },
+    {
+        "name":"Splash N Shine",
+        "database":"mandmsuperiorcw_000282"
+    },
+    {
+        "name":"Grimsby Tunnel Wash",
+        "database":"grimsbycw_000765"
+    },
+    {
+        "name":"Ocean State Car Wash",
+        "database":"oceanstatecw_000169"
+    },
+    {
+        "name":"Aqua Express Memorial",
+        "database":"58435ironhorse"
+    },
+    {
+        "name":"Frank Kent",
+        "database":"frankkent_000536"
+    },
+    {
+        "name":"Aladdin Car Wash",
+        "database":"aladdincw_000434"
+    },
+    {
+        "name":"Simply Clean Carwash (valley Car Wash)",
+        "database":"valleycarwash"
+    },
+    {
+        "name":"Euclid Anaheim Car Wash",
+        "database":"euclidcw_000701"
+    },
+    {
+        "name":"North Port Car Wash",
+        "database":"northport_000093"
+    },
+    {
+        "name":"Vipexpresscarwash.net",
+        "database":"136360andysauto"
+    },
+    {
+        "name":"Express Pro Carwash",
+        "database":"expressprocw_000601"
+    },
+    {
+        "name":"Hang 10",
+        "database":"hang10cw_000469"
+    },
+    {
+        "name":"Take 5 Car Wash",
+        "database":"take5cw_000472"
+    },
+    {
+        "name":"Valley Car Wash",
+        "database":"valleynd"
+    },
+    {
+        "name":"Bubble Tunnel Car Wash",
+        "database":"bubbletunnelcw_000368"
+    },
+    {
+        "name":"Bernard Chevron",
+        "database":"bernardchevron_000736"
+    },
+    {
+        "name":"Octopus Express 434",
+        "database":"octopusexpress_000137"
+    },
+    {
+        "name":"Texas Star Wash, LLC",
+        "database":"1003445texasstar"
+    },
+    {
+        "name":"Jupiter Galaxy Car Wash",
+        "database":"jupitercw_000637"
+    },
+    {
+        "name":"Peltier Nissan",
+        "database":"peltiernissan_000506"
+    },
+    {
+        "name":"Fort Atkins Car Wash",
+        "database":"fortatkinscw_000788"
+    },
+    {
+        "name":"Rock Island Express",
+        "database":"rockislandexp_000286"
+    },
+    {
+        "name":"Lightning Express Wash",
+        "database":"lightningexpress_000059"
+    },
+    {
+        "name":"V Express Car Wash",
+        "database":"1003358vexpress"
+    },
+    {
+        "name":"Jones Arco",
+        "database":"jonesarco_000672"
+    },
+    {
+        "name":"Scarborough Car Wash",
+        "database":"scarboroughtravel_000540"
+    },
+    {
+        "name":"Sonny's Car Wash CO",
+        "database":"peakscw_000570"
+    },
+    {
+        "name":"Bella Stone Car Wash",
+        "database":"emmonscw_000437"
+    },
+    {
+        "name":"StoneWash Car Care Center",
+        "database":"rainbowcarwash_000208"
+    },
+    {
+        "name":"Suds On 83",
+        "database":"42232sudson83"
+    },
+    {
+        "name":"E Express",
+        "database":"eexpresscw_000704"
+    },
+    {
+        "name":"Suds N Vac",
+        "database":"sudsnvac_000604"
+    },
+    {
+        "name":"Greenway Auto Wash",
+        "database":"greenwayaw_000607"
+    },
+    {
+        "name":"Auto Wash Express",
+        "database":"autowashexpress"
+    },
+    {
+        "name":"Ultimate Car Wash",
+        "database":"105066ultimate"
+    },
+    {
+        "name":"Red Carpet Car Wash",
+        "database":"redcarpetcw_000640"
+    },
+    {
+        "name":"Dog House Auto Spa",
+        "database":"skiatookexp_000509"
+    },
+    {
+        "name":"Gas and Go Car Wash",
+        "database":"gasandgocw_000791"
+    },
+    {
+        "name":"Presto Conyers Car Wash",
+        "database":"conyerscw_000407"
+    },
+    {
+        "name":"Alpha Express Car Wash",
+        "database":"alphacw_000771"
+    },
+    {
+        "name":"Lightning Fast",
+        "database":"lightningfast_000039"
+    },
+    {
+        "name":"Gloss Auto Wash",
+        "database":"glossautowash_000543"
+    },
+    {
+        "name":"Silver Spray Car Wash",
+        "database":"silverspraycw_000211"
+    },
+    {
+        "name":"Foothill Car Wash & Detail",
+        "database":"1002948foothill"
+    },
+    {
+        "name":"Precision Express Car Wash",
+        "database":"precisionexpress_000019"
+    },
+    {
+        "name":"Blue Jay Car Wash",
+        "database":"bluejaycw_000479"
+    },
+    {
+        "name":"R&R Superior Bellfort Carwash",
+        "database":"162721superior"
+    },
+    {
+        "name":"Victory Car Wash",
+        "database":"victorycarwash_000375"
+    },
+    {
+        "name":"Island Auto Wash On 61st",
+        "database":"44136autoclean"
+    },
+    {
+        "name":"Johnny's Auto Spa",
+        "database":"johnnysautospa_000644"
+    },
+    {
+        "name":"Pelican Car Wash",
+        "database":"pelicancw_000512"
+    },
+    {
+        "name":"Turbo Wash",
+        "database":"turbowash_000794"
+    },
+    {
+        "name":"Scrub-a-doo Car Wash",
+        "database":"scrubadoo_000064"
+    },
+    {
+        "name":"Classic Touch Car Wash",
+        "database":"classictouchcw_000410"
+    },
+    {
+        "name":"Dore's Mobile",
+        "database":"doresmobile_000774"
+    },
+    {
+        "name":"Land Rover Dallas",
+        "database":"landroverdallas_000178"
+    },
+    {
+        "name":"Super Spray",
+        "database":"1003625superspray"
+    },
+    {
+        "name":"Naples Car Wash",
+        "database":"naplescw_000547"
+    },
+    {
+        "name":"Main Street Xpress",
+        "database":"streetxpress_000577"
+    },
+    {
+        "name":"Blu's Flex Serve Car Wash",
+        "database":"blusflexservecw_000214"
+    },
+    {
+        "name":"Raindancer Of Glenville",
+        "database":"118135glenville"
+    },
+    {
+        "name":"Wash Depot",
+        "database":"washdepot_000710"
+    },
+    {
+        "name":"Circle K #6740",
+        "database":"circlek_100107"
+    },
+    {
+        "name":"Brite Shine Car Wash",
+        "database":"196965briteshine"
+    },
+    {
+        "name":"The Washery",
+        "database":"allseasonscarwash_000110"
+    },
+    {
+        "name":"David Chevrolet",
+        "database":"184520david"
+    },
+    {
+        "name":"Mr. Splash",
+        "database":"cooperpetro_000255"
+    },
+    {
+        "name":"Rockaway Auto Bath",
+        "database":"215376rockaway"
+    },
+    {
+        "name":"Shine Car Washes",
+        "database":"36108shine"
+    },
+    {
+        "name":"Aqua Shine",
+        "database":"aquashine_000797"
+    },
+    {
+        "name":"Great North Auto Wash",
+        "database":"greatnorthaw_000297"
+    },
+    {
+        "name":"GO Car Wash",
+        "database":"morenovalleyexp_000413"
+    },
+    {
+        "name":"Client Design Services",
+        "database":"cdsdemo_000777"
+    },
+    {
+        "name":"Expressway 55",
+        "database":"expressway"
+    },
+    {
+        "name":"Doctor Car Wash",
+        "database":"doctorcw_000681"
+    },
+    {
+        "name":"Lakes Edge",
+        "database":"lakesedge_000550"
+    },
+    {
+        "name":"Scrub A Dub Car Wash",
+        "database":"5028930scrub"
+    },
+    {
+        "name":"Drip Auto Spa",
+        "database":"dripautospa_000581"
+    },
+    {
+        "name":"Carl's Wash",
+        "database":"carlswash_000218"
+    },
+    {
+        "name":"Kleen Machine",
+        "database":"98678palmisland"
+    },
+    {
+        "name":"Quick n Clean",
+        "database":"bubbleupcw_000341"
+    },
+    {
+        "name":"Southern Oil Stop",
+        "database":"southernoilstop_000713"
+    },
+    {
+        "name":"Soap My Ride",
+        "database":"soapmyride_000113"
+    },
+    {
+        "name":"Lola's Truck Wash",
+        "database":"lolatruckwash_000259"
+    },
+    {
+        "name":"Squeaky Clean Car Wash 2",
+        "database":"123719squeaky"
+    },
+    {
+        "name":"Sunshine Express",
+        "database":"sunshineexpcw_000748"
+    },
+    {
+        "name":"The Glo Car Wash",
+        "database":"theglo"
+    },
+    {
+        "name":"Slash 77 Car Wash",
+        "database":"jimwood_000518"
+    },
+    {
+        "name":"Splash N Dash Carwash Aruba",
+        "database":"splashndasharuba_000800"
+    },
+    {
+        "name":"Autowash Express",
+        "database":"buckyscw_000301"
+    },
+    {
+        "name":"Glo Car Wash",
+        "database":"xpresstx_000070"
+    },
+    {
+        "name":"Sully's Car Wash",
+        "database":"sullyscw_000416"
+    },
+    {
+        "name":"Car Wash On 5th",
+        "database":"bluedolphincw_000185"
+    },
+    {
+        "name":"Amity Car Wash",
+        "database":"amitycarwash"
+    },
+    {
+        "name":"Vortex Express",
+        "database":"vortexexpress_000684"
+    },
+    {
+        "name":"Squeaky Squid",
+        "database":"squeakysquid_000553"
+    },
+    {
+        "name":"Adore Car Wash",
+        "database":"adore_000584"
+    },
+    {
+        "name":"Blue Crew Car Wash",
+        "database":"bluecrewcw_000222"
+    },
+    {
+        "name":"Super Soaker Carwash",
+        "database":"supersoaker"
+    },
+    {
+        "name":"Sven & Ole's Ultimate Carwash",
+        "database":"svenandolescw_000716"
+    },
+    {
+        "name":"Bob Moore",
+        "database":"bobmoore_000719"
+    },
+    {
+        "name":"Rainstorm Car Wash #10",
+        "database":"rainstormow_000117"
+    },
+    {
+        "name":"Beach Bum Express",
+        "database":"beachbumexp_000488"
+    },
+    {
+        "name":"Washed",
+        "database":"washed_000263"
+    },
+    {
+        "name":"Speedy Strang, Llc.",
+        "database":"speedycarwash"
+    },
+    {
+        "name":"Glacier Wash",
+        "database":"glacierwash_000751"
+    },
+    {
+        "name":"Lakewood Car Wash",
+        "database":"lakewood_000152"
+    },
+    {
+        "name":"Apro Express Car Wash",
+        "database":"1003228cartopia"
+    },
+    {
+        "name":"Mr Suds Express Car Wash",
+        "database":"mrsuds_000654"
+    },
+    {
+        "name":"City Park Express",
+        "database":"citypartexp_000803"
+    },
+    {
+        "name":"Extreme Express",
+        "database":"extremeexpress_000074"
+    },
+    {
+        "name":"Splash Brothers",
+        "database":"splashbrothers_000419"
+    },
+    {
+        "name":"Scooter's Express",
+        "database":"scootersexp_000783"
+    },
+    {
+        "name":"Fletcher Jones",
+        "database":"fletcherjones_000188"
+    },
+    {
+        "name":"Mall Car Wash",
+        "database":"76362mallcar"
+    },
+    {
+        "name":"Magic Mex",
+        "database":"magicmex_000687"
+    },
+    {
+        "name":"Classie Express Car Wash",
+        "database":"classicexpcw_000556"
+    },
+    {
+        "name":"Murray Auto Spa",
+        "database":"178058murray"
+    },
+    {
+        "name":"Hang 5 Carwash",
+        "database":"waveswash_000587"
+    },
+    {
+        "name":"Fast Pass Car Wash",
+        "database":"fastpasscarwash_000225"
+    },
+    {
+        "name":"Englewood Car Wash",
+        "database":"24036englewood"
+    },
+    {
+        "name":"Top Edge Car Wash",
+        "database":"topedgecw_000722"
+    },
+    {
+        "name":"Bubbletime Express Car Wash",
+        "database":"bubbletimeexpresscw_000120"
+    },
+    {
+        "name":"Fullerton  Car Wash",
+        "database":"fullertoncw_000623"
+    },
+    {
+        "name":"Chandi Carwash",
+        "database":"chandicw_000267"
+    },
+    {
+        "name":"Soapy Sam's",
+        "database":"soapysams_000388"
+    },
+    {
+        "name":"Dirty Birdy Car Wash",
+        "database":"dirtybirdycw_000754"
+    },
+    {
+        "name":"A Proper Wash",
+        "database":"aproperwash_000155"
+    },
+    {
+        "name":"Pristine Car Wash",
+        "database":"pristine_000034"
+    },
+    {
+        "name":"Pink Bird Car Wash",
+        "database":"pinkbirdcw_000657"
+    },
+    {
+        "name":"B3 Car Wash",
+        "database":"b3carwash_000524"
+    },
+    {
+        "name":"Autoshine",
+        "database":"autoshine_000806"
+    },
+    {
+        "name":"Soggy Dog Car Wash",
+        "database":"soggydogcarwash_000077"
+    },
+    {
+        "name":"Flawless Auto Bath Inc",
+        "database":"204663flawless"
+    },
+    {
+        "name":"Pirates Cove",
+        "database":"piratescove_000559"
+    },
+    {
+        "name":"The Good Wash",
+        "database":"thegoodwash_000590"
+    },
+    {
+        "name":"OBXpress",
+        "database":"obxpress_000458"
+    },
+    {
+        "name":"Fine N Shine",
+        "database":"finenshine_000228"
+    },
+    {
+        "name":"Pink Elephant Car Wash",
+        "database":"109486splash"
+    },
+    {
+        "name":"Superior Fry Car Wash",
+        "database":"12763superior"
+    },
+    {
+        "name":"Magic City Car Wash",
+        "database":"magiccitycw_000357"
+    },
+    {
+        "name":"Bennington Carwash",
+        "database":"benningtonexp_000725"
+    },
+    {
+        "name":"Superior Texas Car Wash",
+        "database":"superiortexascw_000124"
+    },
+    {
+        "name":"Sparkle Brite Car Wash",
+        "database":"stmatthewscarwash"
+    },
+    {
+        "name":"Wilson Way Chevron",
+        "database":"wilsonway_000626"
+    },
+    {
+        "name":"Gwatzilla Car Wash",
+        "database":"gwatzillacw_000494"
+    },
+    {
+        "name":"River Rock Car Wash",
+        "database":"riverrockcw_000272"
+    },
+    {
+        "name":"Hamilton Car Wash",
+        "database":"hamiltoncarwash_000049"
+    },
+    {
+        "name":"Dream Wash",
+        "database":"dreamwash_000757"
+    },
+    {
+        "name":"Village Car Wash",
+        "database":"octopus"
+    },
+    {
+        "name":"Shark Bay Car Wash",
+        "database":"sharkbaycw_000660"
+    },
+    {
+        "name":"Panorama City Car Wash",
+        "database":"panoramacw_000527"
+    },
+    {
+        "name":"Rialto Car Wash",
+        "database":"rialtocw_000809"
+    },
+    {
+        "name":"Jet Express Car Wash",
+        "database":"moonstone_000312"
+    },
+    {
+        "name":"Soak City Car Wash",
+        "database":"soakcitycwga_000693"
+    },
+    {
+        "name":"360 Car Wash",
+        "database":"seagovilleexpcw_000563"
+    },
+    {
+        "name":"Round Lake Express",
+        "database":"154701round"
+    },
+    {
+        "name":"Mercedes Benz Park Place",
+        "database":"mercedesbenzdallas_000593"
+    },
+    {
+        "name":"Foothills Car Wash",
+        "database":"foothillscw_000461"
+    },
+    {
+        "name":"Slam CarWash Marketing",
+        "database":"slamcarwash_000237"
+    },
+    {
+        "name":"Sparta Car Wash",
+        "database":"104446sparta"
+    },
+    {
+        "name":"Auto Brite Express",
+        "database":"autobrite_000360"
+    },
+    {
+        "name":"Stags Car Wash",
+        "database":"stagscw_000728"
+    },
+    {
+        "name":"Super Suds",
+        "database":"supersuds_000127"
+    },
+    {
+        "name":"Mr C Car Wash #3",
+        "database":"mrccarwash_000629"
+    },
+    {
+        "name":"Green Ocean Car Wash",
+        "database":"greenoceancw_000275"
+    },
+    {
+        "name":"Mr. Suds Handwash & Detail Center, Inc.",
+        "database":"60635mrsuds"
+    },
+    {
+        "name":"Coast 2 Coast",
+        "database":"coast2coastcw_000663"
+    },
+    {
+        "name":"Alton Town Center",
+        "database":"altontowncw_000530"
+    },
+    {
+        "name":"Peachy Clean",
+        "database":"peachyclean_000083"
+    },
+    {
+        "name":"Dirty  Dave's Car Wash",
+        "database":"dirtydavescarwash_000199"
+    },
+    {
+        "name":"Some Guy's Car Wash",
+        "database":"someguys_000043"
+    },
+    {
+        "name":"Sonic Car Wash",
+        "database":"soniccw_000696"
+    },
+    {
+        "name":"Chemical Guys Car Wash",
+        "database":"advanceautodetailing_000566"
+    },
+    {
+        "name":"5 Star Auto Spa",
+        "database":"5star_000088"
+    },
+    {
+        "name":"Apple Car Wash & Lube Center",
+        "database":"apple_000012"
+    },
+    {
+        "name":"Blue Rhino Car Wash",
+        "database":"bluerhinocw_000596"
+    },
+    {
+        "name":"Patriots Car Wash",
+        "database":"patriotscw_000465"
+    },
+    {
+        "name":"Show Place",
+        "database":"1002945eco"
+    },
+    {
+        "name":"Super Heroes Car Wash",
+        "database":"superheroesexpresswash_000363"
+    },
+    {
+        "name":"Coastal Express Bradenton",
+        "database":"coastalbradenton_000132"
+    },
+    {
+        "name":"Willy's Wash",
+        "database":"willyswash_000501"
+    },
+    {
+        "name":"Clean Wave",
+        "database":"cleanwave_000278"
+    },
+    {
+        "name":"Speedy Bee Car Wash",
+        "database":"speedybee"
+    },
+    {
+        "name":"Mint Car Wash",
+        "database":"mintcw_000763"
+    },
+    {
+        "name":"Slim Olson Car Wash",
+        "database":"slimolson_000166"
+    },
+    {
+        "name":"Cougar Ridge",
+        "database":"17340cougar"
+    },
+    {
+        "name":"Big Valley",
+        "database":"bigvalley_000666"
+    },
+    {
+        "name":"Wash Pros",
+        "database":"washpros_000432"
+    },
+    {
+        "name":"Lynkey's Car Wash",
+        "database":"lynskeyscarwash_000203"
+    },
+    {
+        "name":"Jc Auto Wash",
+        "database":"167300jcauto"
+    },
+    {
+        "name":"Los Banos Car Wash",
+        "database":"losbanoscw_000699"
+    },
+    {
+        "name":"Land Rover",
+        "database":"landrover_000091"
+    },
+    {
+        "name":"Shine Line Express Car      Wash",
+        "database":"28611shineline"
+    },
+    {
+        "name":"Bobby's Car Wash",
+        "database":"bobbyswash_000599"
+    },
+    {
+        "name":"Wash Rack Car Wash",
+        "database":"washrackcw_000243"
+    },
+    {
+        "name":"Bms Alexandria",
+        "database":"59747bms"
+    },
+    {
+        "name":"Wash Guys",
+        "database":"washguys_000366"
+    },
+    {
+        "name":"Shine Time Express Car Wash",
+        "database":"shinetimeexpcw_000734"
+    },
+    {
+        "name":"Seaford Car Wash",
+        "database":"seafordcw_000135"
+    },
+    {
+        "name":"LA Xpress Car Wash",
+        "database":"kendigscarwash_000029"
+    },
+    {
+        "name":"Cruiser's Corner Car Wash",
+        "database":"cruisercw_000635"
+    },
+    {
+        "name":"Finz Car Wash",
+        "database":"yamatogas_000504"
+    },
+    {
+        "name":"ZoomWash",
+        "database":"zoomwash_000786"
+    },
+    {
+        "name":"Rapid Express Car Wash",
+        "database":"crystalclean_000055"
+    },
+    {
+        "name":"Bubbles N Vacs",
+        "database":"bublesnvacs_000766"
+    },
+    {
+        "name":"JM Lexus",
+        "database":"jmlexus_000170"
+    },
+    {
+        "name":"Jiffy Lube",
+        "database":"jiffylube_000670"
+    },
+    {
+        "name":"Drive Thru Express",
+        "database":"drivethruexp_000568"
+    },
+    {
+        "name":"Auto Suds Express West",
+        "database":"autosudsexp_000435"
+    },
+    {
+        "name":"Aqua Express Enid",
+        "database":"aquanorth"
+    },
+    {
+        "name":"Bubble Brothers",
+        "database":"bubblebrothers_000702"
+    },
+    {
+        "name":"Koala Car Wash",
+        "database":"koalacarwash_000094"
+    },
+    {
+        "name":"WetnJet Car Wash",
+        "database":"59178kustom"
+    },
+    {
+        "name":"Blast Car Wash",
+        "database":"blastcw_000602"
+    },
+    {
+        "name":"Sparky's Car Wash",
+        "database":"sparkyscw_000470"
+    },
+    {
+        "name":"Bulldog Car Wash",
+        "database":"bulldogcarwash_000246"
+    },
+    {
+        "name":"Miami Carwash & Det Center",
+        "database":"miamicarwash"
+    },
+    {
+        "name":"Kallos Car Wash",
+        "database":"kalloscw_000737"
+    },
+    {
+        "name":"Blue Sky Express",
+        "database":"blueskyexpress_000138"
+    },
+    {
+        "name":"H2GLO CAR WASH",
+        "database":"5025585h2glo"
+    },
+    {
+        "name":"Lavado Xpress",
+        "database":"lavadaexp_000638"
+    },
+    {
+        "name":"Master Automotive",
+        "database":"masterautomotive_000789"
+    },
+    {
+        "name":"Polished Peach Car Wash",
+        "database":"polishedpeachcw_000288"
+    },
+    {
+        "name":"Superior Flagship",
+        "database":"superiorflagshipcw_000173"
+    },
+    {
+        "name":"Aqua Express North May",
+        "database":"41771northmay"
+    },
+    {
+        "name":"Evergreen Car Wash",
+        "database":"evergreencarwash_000209"
+    },
+    {
+        "name":"Sunset CW",
+        "database":"181322sunset"
+    },
+    {
+        "name":"Gate Express Training",
+        "database":"gatetraining_000705"
+    },
+    {
+        "name":"Rainbow Car Wash",
+        "database":"221579rainbow"
+    },
+    {
+        "name":"Mort's Car Wash",
+        "database":"mortscw_000608"
+    },
+    {
+        "name":"Zoom Car Wash",
+        "database":"zoomcarwash_000250"
+    },
+    {
+        "name":"Happy Car Wash",
+        "database":"happycarwash_000373"
+    },
+    {
+        "name":"Lux Car Wash",
+        "database":"luxcw_000740"
+    },
+    {
+        "name":"Valvoline Express Care",
+        "database":"johnsontexacoexpress_000141"
+    },
+    {
+        "name":"North Arlington Car Wash",
+        "database":"123013arlington"
+    },
+    {
+        "name":"EZ Car Wash Hickory",
+        "database":"ezcarwashtn_000642"
+    },
+    {
+        "name":"Doctor Suds Car Wash",
+        "database":"doctorsudscw_000510"
+    },
+    {
+        "name":"Country Club Car Wash",
+        "database":"countryclubcw_000792"
+    },
+    {
+        "name":"Blue Water Express",
+        "database":"bluewaterexp_000408"
+    },
+    {
+        "name":"American Speed Wash",
+        "database":"americanspeed_000772"
+    },
+    {
+        "name":"All American Car Wash",
+        "database":"allamerican_000040"
+    },
+    {
+        "name":"Blu Sahara Car Wash",
+        "database":"blusaharacw_000676"
+    },
+    {
+        "name":"Zelo Car Wash",
+        "database":"zelocw_000544"
+    },
+    {
+        "name":"Atlantic City Car Wash",
+        "database":"atlanticcitycw_000331"
+    },
+    {
+        "name":"Suds Bucket Car Wash",
+        "database":"sudsbucketcw_000442"
+    },
+    {
+        "name":"Prestige Car Wash",
+        "database":"prestigecarwash_000212"
+    },
+    {
+        "name":"Sparkle Auto Wash",
+        "database":"185441sparkle"
+    },
+    {
+        "name":"Mint Carwash",
+        "database":"mintcondition_000103"
+    },
+    {
+        "name":"Full Throttle Car Wash",
+        "database":"fullthrottle_000020"
+    },
+    {
+        "name":"Orbit Car Wash",
+        "database":"orbitcw_000611"
+    },
+    {
+        "name":"Hero Car Wash",
+        "database":"herocarwash_000253"
+    },
+    {
+        "name":"Quick And Clean Car Wash - Santa Maria",
+        "database":"1003010quickandclean"
+    },
+    {
+        "name":"Magnus Car Wash",
+        "database":"magnuscarwash_000376"
+    },
+    {
+        "name":"Mendham Car Wash",
+        "database":"156751mendham"
+    },
+    {
+        "name":"Freedom Express",
+        "database":"freedomexp_000645"
+    },
+    {
+        "name":"Frank's Car Wash",
+        "database":"frankscw_000513"
+    },
+    {
+        "name":"Quickwash Express",
+        "database":"quickwashexp_000795"
+    },
+    {
+        "name":"King's Car Wash",
+        "database":"kingscw_000295"
+    },
+    {
+        "name":"Station Market",
+        "database":"stationmarket_000775"
+    },
+    {
+        "name":"Complete Auto Detail & Car Wash",
+        "database":"completeadcw_000179"
+    },
+    {
+        "name":"Sunshine Superwash",
+        "database":"sunshinesuper_000679"
+    },
+    {
+        "name":"Rocks Edge",
+        "database":"rocksedge_000548"
+    },
+    {
+        "name":"Stevens Creek Xpress",
+        "database":"stevenscreek_000445"
+    },
+    {
+        "name":"H2O Auto Spa",
+        "database":"90984ardoyle"
+    },
+    {
+        "name":"Legacy Car Wash",
+        "database":"legacycw_000711"
+    },
+    {
+        "name":"Dolphin Auto Spa",
+        "database":"dolphinautospa_000108"
+    },
+    {
+        "name":"Washworks Express",
+        "database":"hurricane"
+    },
+    {
+        "name":"Splash N Go",
+        "database":"splashngo_000614"
+    },
+    {
+        "name":"Pat's Nu Star",
+        "database":"patsnustar_000483"
+    },
+    {
+        "name":"Norco AUTO Spa",
+        "database":"norcocarspa_000257"
+    },
+    {
+        "name":"Rialto Car Wash",
+        "database":"rialtocw_000746"
+    },
+    {
+        "name":"BubbleWorks Auto Spa",
+        "database":"bubbleworks_000147"
+    },
+    {
+        "name":"Chagrin Auto Spa",
+        "database":"151261chagrin"
+    },
+    {
+        "name":"Joe Holland Express Car Wash",
+        "database":"joehollandexp_000648"
+    },
+    {
+        "name":"Jets Car Wash and Detail",
+        "database":"jetscarwashdetail_000516"
+    },
+    {
+        "name":"Dusto's Car Wash",
+        "database":"dustoscw_000798"
+    },
+    {
+        "name":"Royal Splash Car Wash",
+        "database":"royalsplash_000068"
+    },
+    {
+        "name":"Wali Wash",
+        "database":"glenviewcw_000778"
+    },
+    {
+        "name":"Pinky's Klassy Kar Wash",
+        "database":"pinkys"
+    },
+    {
+        "name":"Blue Buffalo Car Wash",
+        "database":"bluebuffalocw_000682"
+    },
+    {
+        "name":"Elks Edge",
+        "database":"elksedge_000551"
+    },
+    {
+        "name":"Lake Charles Toyota",
+        "database":"lakecharlestoyota_000582"
+    },
+    {
+        "name":"Lexington Auto Spa",
+        "database":"ultimateshine"
+    },
+    {
+        "name":"Daybreak",
+        "database":"bocagas_000342"
+    },
+    {
+        "name":"Shine Brite",
+        "database":"shinebrite_000714"
+    },
+    {
+        "name":"Vics Car Wash",
+        "database":"131680vicks"
+    },
+    {
+        "name":"Vision Car Wash",
+        "database":"visioncw_000617"
+    },
+    {
+        "name":"Extreme Clean Auto Wash",
+        "database":"extreemeclean_000261"
+    },
+    {
+        "name":"Texas Car Wash",
+        "database":"texascarwash_000046"
+    },
+    {
+        "name":"Russell Speeders 2",
+        "database":"1003485russell"
+    },
+    {
+        "name":"Unrivaled Car Wash",
+        "database":"unrivaledcw_000652"
+    },
+    {
+        "name":"Fast N Furious",
+        "database":"fastnfuriouscw_000519"
+    },
+    {
+        "name":"Bubble Blast",
+        "database":"bubbleblast_000801"
+    },
+    {
+        "name":"Jet Express Franklin",
+        "database":"jetexpress_000303"
+    },
+    {
+        "name":"Monkey Shine Car Wash",
+        "database":"monkeyshinecw_000417"
+    },
+    {
+        "name":"Farmersville Car Wash",
+        "database":"farmersvillecw_000781"
+    },
+    {
+        "name":"Secaucus Car Wash",
+        "database":"secaucuscarwash_000042"
+    },
+    {
+        "name":"Parr's Car Wash",
+        "database":"parrscw_000685"
+    },
+    {
+        "name":"True Clean",
+        "database":"trueclean_000554"
+    },
+    {
+        "name":"Spot Free Car Wash",
+        "database":"spotfreecw_000585"
+    },
+    {
+        "name":"Aberdeen Car Wash",
+        "database":"aberdeencw_000453"
+    },
+    {
+        "name":"Black Diamond",
+        "database":"blackdiamond_000223"
+    },
+    {
+        "name":"Brothers Car Wash",
+        "database":"autoshineoil"
+    },
+    {
+        "name":"Gloss Car Wash",
+        "database":"glosscw_000345"
+    },
+    {
+        "name":"Wash N Go Cary",
+        "database":"washngonc_000717"
+    },
+    {
+        "name":"Rosehill Car Wash",
+        "database":"rosehillcw_000720"
+    },
+    {
+        "name":"Coates Car Care",
+        "database":"coatesow_000118"
+    },
+    {
+        "name":"Koziol Car Wash",
+        "database":"koziolcarwash_000025"
+    },
+    {
+        "name":"All American Big Spring",
+        "database":"allamericanbigspring_000621"
+    },
+    {
+        "name":"Superior Tomball Carwash",
+        "database":"tomball"
+    },
+    {
+        "name":"Mercedes Benz",
+        "database":"mercedesbenz_000386"
+    },
+    {
+        "name":"Super Hero's Car Wash",
+        "database":"superheroscw_000752"
+    },
+    {
+        "name":"Don's Express Carwash",
+        "database":"donsexpress"
+    },
+    {
+        "name":"Big Drip Car Wash",
+        "database":"bigdripcw_000655"
+    },
+    {
+        "name":"Premier Car Wash",
+        "database":"premiercw_000804"
+    },
+    {
+        "name":"Burnside Express Car Wash",
+        "database":"burnsideexpresscw_000306"
+    },
+    {
+        "name":"Crosby Car Wash",
+        "database":"crosbycw_000784"
+    },
+    {
+        "name":"Paul's Hingham Car Wash",
+        "database":"190490pauls"
+    },
+    {
+        "name":"Wish Wash Car Wash",
+        "database":"wishwashcw_000688"
+    },
+    {
+        "name":"Shiney Car Wash",
+        "database":"shineycw_000557"
+    },
+    {
+        "name":"Pastime Auto Wash",
+        "database":"pasttime"
+    },
+    {
+        "name":"Rock & Roll Car Wash",
+        "database":"chalmette"
+    },
+    {
+        "name":"Super Suds",
+        "database":"supersudsga_000350"
+    },
+    {
+        "name":"Seaford Car Wash",
+        "database":"seafordcarwash_000354"
+    },
+    {
+        "name":"Soak City Car Wash",
+        "database":"soakcitycwoh_000723"
+    },
+    {
+        "name":"UDrive",
+        "database":"udrive_000121"
+    },
+    {
+        "name":"A-Key Car Wash",
+        "database":"165532akey"
+    },
+    {
+        "name":"Santa Cruz Car Wash",
+        "database":"santacruzcw_000624"
+    },
+    {
+        "name":"Lake Effect",
+        "database":"lakeeffect_000492"
+    },
+    {
+        "name":"Waterworks Express Car Wash",
+        "database":"rivercities_000269"
+    },
+    {
+        "name":"Clayton Gas & Wash",
+        "database":"claytongaswash_000755"
+    },
+    {
+        "name":"Citgo Car Wash",
+        "database":"citgocarwash_000035"
+    },
+    {
+        "name":"Elite Car Wash",
+        "database":"eightmile_000525"
+    },
+    {
+        "name":"Auto Laundry",
+        "database":"autolaundry_000807"
+    },
+    {
+        "name":"Route 66 Car Wash",
+        "database":"route66cw_000310"
+    },
+    {
+        "name":"Big Kahuna Car Wash",
+        "database":"briancouch_000078"
+    },
+    {
+        "name":"Orca Express",
+        "database":"orcaexpresscw_000424"
+    },
+    {
+        "name":"Blue Cow Car Wash",
+        "database":"bluecowcw_000193"
+    },
+    {
+        "name":"Primo Car Wash",
+        "database":"primocw_000691"
+    },
+    {
+        "name":"Monster Wash Floresville",
+        "database":"topmartcw_000591"
+    },
+    {
+        "name":"Auto Soak",
+        "database":"autosoak_000459"
+    },
+    {
+        "name":"Splash N Foam",
+        "database":"splashnfoam_000229"
+    },
+    {
+        "name":"Superior Mermaid Carwash",
+        "database":"172509mermaid"
+    },
+    {
+        "name":"Sierra Express",
+        "database":"sierraexpress"
+    },
+    {
+        "name":"Scrub Brothers",
+        "database":"scrubbrothers_000726"
+    },
+    {
+        "name":"Clean Car Express",
+        "database":"1003701cleancar"
+    },
+    {
+        "name":"BDP's Kwapa Car Wash",
+        "database":"cocopahcw_000495"
+    },
+    {
+        "name":"Mr Quick's",
+        "database":"mrquicks_000273"
+    },
+    {
+        "name":"Clean N Shine",
+        "database":"cleannshine_000050"
+    },
+    {
+        "name":"Washbox Car Wash",
+        "database":"washboxcw_000392"
+    },
+    {
+        "name":"Mission Car Wash",
+        "database":"missioncw_000661"
+    },
+    {
+        "name":"Virginia Car Wash CO.",
+        "database":"napcowash_000528"
+    },
+    {
+        "name":"Intracoastal Car Wash",
+        "database":"intracoastalcw_000313"
+    },
+    {
+        "name":"PV Car Wash",
+        "database":"pvcarwash_000081"
+    },
+    {
+        "name":"JJ Express Car Wash",
+        "database":"jjexpresscw_000427"
+    },
+    {
+        "name":"Jimmy Suds Car Wash",
+        "database":"jimmysudscw_000196"
+    },
+    {
+        "name":"Grease Monkey #561",
+        "database":"washpoint"
+    },
+    {
+        "name":"Canton Auto Wash",
+        "database":"cantonautowash_000594"
+    },
+    {
+        "name":"Scrub Hub",
+        "database":"1003339carnutz"
+    },
+    {
+        "name":"Crown America",
+        "database":"crownamerica_000361"
+    },
+    {
+        "name":"Fast N Furious Speed Wash",
+        "database":"fastnfurioussw_000729"
+    },
+    {
+        "name":"Buckeye Car Wash",
+        "database":"107731buckeye"
+    },
+    {
+        "name":"Trident Express Car Wash",
+        "database":"tridentexpcw_000630"
+    },
+    {
+        "name":"American Car Wash",
+        "database":"1003541american"
+    },
+    {
+        "name":"JR's Car Wash",
+        "database":"jrcarwash_000395"
+    },
+    {
+        "name":"Wash N Go Express Car Wash",
+        "database":"washngonv_000761"
+    },
+    {
+        "name":"Bay Wash",
+        "database":"baywash_000164"
+    },
+    {
+        "name":"Kuhnsville Car Wash",
+        "database":"143308kuhnsville"
+    },
+    {
+        "name":"Rapid Wash",
+        "database":"rapidwash_000664"
+    },
+    {
+        "name":"EZ Wash",
+        "database":"ezwash_000531"
+    },
+    {
+        "name":"International Auto Spa",
+        "database":"internationalautospa_000316"
+    },
+    {
+        "name":"Patriot Petroleum",
+        "database":"patriotpetro_000084"
+    },
+    {
+        "name":"Carisma Car Wash",
+        "database":"carismacarwash_000200"
+    },
+    {
+        "name":"Sparkle Express",
+        "database":"1003635sparkle"
+    },
+    {
+        "name":"Ms Bee'z Wash n Wax",
+        "database":"missbeezwashnwax_000697"
+    },
+    {
+        "name":"Pair-a-dice Car Wash",
+        "database":"76613pairadice"
+    },
+    {
+        "name":"Lathrop Arco Car Wash",
+        "database":"lathroparcocw_000241"
+    },
+    {
+        "name":"Hippo Car Wash",
+        "database":"130843hippo"
+    },
+    {
+        "name":"Sugar Express Car Wash",
+        "database":"superherocw_000364"
+    },
+    {
+        "name":"Scooter's Express Wash",
+        "database":"scootersexpwash_000732"
+    },
+    {
+        "name":"Gerrings Car Wash",
+        "database":"1003368gerring"
+    },
+    {
+        "name":"Anna's Car Wash",
+        "database":"annascw_000502"
+    },
+    {
+        "name":"Riverside Metro",
+        "database":"riversidemetro_000280"
+    },
+    {
+        "name":"Pelican Auto Wash",
+        "database":"pelicanauto_000399"
+    },
+    {
+        "name":"Bubble Down Barcelona",
+        "database":"bubbledownspain_000764"
+    },
+    {
+        "name":"Diamond Auto Salon",
+        "database":"supershinecw_000168"
+    },
+    {
+        "name":"Ohana Car Wash",
+        "database":"ohanacw_000667"
+    },
+    {
+        "name":"Rub A Dub",
+        "database":"riflecw_000534"
+    },
+    {
+        "name":"Sun Splash",
+        "database":"sunsplash_000204"
+    },
+    {
+        "name":"Riverhead Toyota Car Wash",
+        "database":"104486national"
+    },
+    {
+        "name":"Dragons Edge",
+        "database":"dragonsedge_000700"
+    },
+    {
+        "name":"Robin Auto Wash",
+        "database":"231301robin"
+    },
+    {
+        "name":"Carroll Clean Car Wash",
+        "database":"carrollclean_000464"
+    },
+    {
+        "name":"Alabaster Wash and Wax",
+        "database":"alabasterwash_000244"
+    },
+    {
+        "name":"Bms Express Wash",
+        "database":"1002813pineville"
+    },
+    {
+        "name":"Skillman KIA",
+        "database":"skillmankia_000367"
+    },
+    {
+        "name":"Darby Car Wash",
+        "database":"darbycw_000735"
+    },
+    {
+        "name":"Richardson Training",
+        "database":"richardson_000136"
+    },
+    {
+        "name":"In and Out Express Car Wash",
+        "database":"inandout_000030"
+    },
+    {
+        "name":"Dino Clean",
+        "database":"dinoclean_000636"
+    },
+    {
+        "name":"Mojave Express Wash",
+        "database":"mojaveexpwash_000787"
+    },
+    {
+        "name":"Splash Hopper Express Wash",
+        "database":"splashhopper_000057"
+    },
+    {
+        "name":"Super Scrub Car Wash",
+        "database":"superscrubcw_000402"
+    },
+    {
+        "name":"Slyde's Car Wash",
+        "database":"flowermound_000767"
+    },
+    {
+        "name":"River Falls Car Wash",
+        "database":"riverfallscarwash_000171"
+    },
+    {
+        "name":"Closter Car Wash",
+        "database":"210856pristine"
+    },
+    {
+        "name":"Matthews Car Wash",
+        "database":"matthewscw_000671"
+    },
+    {
+        "name":"Mega Shine",
+        "database":"megashine_000539"
+    },
+    {
+        "name":"Quiki Car Wash",
+        "database":"quikicarwash_000326"
+    },
+    {
+        "name":"Kwik Kar",
+        "database":"kwikkar_000569"
+    },
+    {
+        "name":"Autosport Car Wash",
+        "database":"autosportcw_000436"
+    },
+    {
+        "name":"Hampton Auto Wash",
+        "database":"99720hampton"
+    },
+    {
+        "name":"ValleyStreamNY",
+        "database":"valleystreamny_000095"
+    },
+    {
+        "name":"Superior Car Wash & Detail",
+        "database":"thunderbay_000013"
+    }
+]
