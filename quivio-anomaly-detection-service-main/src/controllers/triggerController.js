@@ -1,5 +1,6 @@
 import prisma from '../prisma/client.js';
-import { v4 as uuidv4 } from 'uuid';
+import { v4 as uuidv4, validate as uuidValidate } from 'uuid';
+
 import { fetchOpenAIResponse } from './openAIService.js';
 
 // GET all triggers
@@ -64,3 +65,27 @@ export const editTrigger = async (req, res) => {
   }
 }
 
+export const deleteTrigger = async (req, res) => {
+  try {
+    const { id } = req.params;
+
+    if(id && !uuidValidate(id)){
+      return res.status(400).json({ error: "Invalid trigger id UUID format" });
+    }
+
+    const deletedTrigger = await prisma.triggers.delete({
+      where: { id },
+    }); 
+    
+    res.json({
+      message: "Trigger deleted successfully",
+      deletedTrigger,
+    });
+  } catch (error) {
+    if(error.code === 'P2025') {
+      return res.status(404).json({ error: "Trigger not found" });
+    }
+    
+    res.status(500).json({ error: 'Failed to delete trigger' });
+  }
+};

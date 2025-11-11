@@ -45,3 +45,24 @@ export const editPlausibleRCA = async (req, res) => {
         res.status(500).json({ error: 'Failed to update trigger' });
       }
 }
+
+export const deletePlausibleRCA = async (req, res) => {
+  try {
+    const id = parseInt(req.params.id);
+
+    const deletedRCA = await prisma.plausible_rca.delete({
+      where: { id },
+    });
+
+    res.json({
+      message: "Plausible RCA deleted successfully",
+      deletedRCA,
+    });
+  } catch (error) {
+    if (error.code === 'P2025') {
+      return res.status(404).json({ error: "RCA not found" });
+    }
+
+    res.status(500).json({ error: 'Failed to delete plausible RCA' });
+  }
+};
