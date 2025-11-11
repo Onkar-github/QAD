@@ -40,23 +40,24 @@ model alert_rca {
 }
 
 model alerts {
-  id             String      @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
-  trigger_id     String      @db.Uuid
-  siteid         Int?
-  subdomain      String?
-  completedate   DateTime    @db.Date
-  alert_value    Decimal?    @db.Decimal
-  severity       String?     @default("medium")
-  status         String?     @default("open")
-  createdAt      DateTime?   @default(now()) @db.Timestamp(6)
-  updatedAt      DateTime?   @default(now()) @db.Timestamp(6)
-  user_id        String?     @db.VarChar
-  alertName      String?     @db.VarChar
-  analysis_dates String?
-  news           String?
-  alert_rca      alert_rca[]
-  triggers       triggers    @relation(fields: [trigger_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
-  users          users?      @relation(fields: [user_id], references: [user_id], onDelete: NoAction, onUpdate: NoAction)
+  id               String            @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  trigger_id       String            @db.Uuid
+  siteid           Int?
+  subdomain        String?
+  completedate     DateTime          @db.Date
+  alert_value      Decimal?          @db.Decimal
+  severity         String?           @default("medium")
+  status           String?           @default("open")
+  createdAt        DateTime?         @default(now()) @db.Timestamp(6)
+  updatedAt        DateTime?         @default(now()) @db.Timestamp(6)
+  user_id          String?           @db.VarChar
+  alertName        String?           @db.VarChar
+  analysis_dates   String?
+  news             String?
+  alert_rca        alert_rca[]
+  alert_state_logs alert_state_log[]
+  triggers         triggers          @relation(fields: [trigger_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  users            users?            @relation(fields: [user_id], references: [user_id], onDelete: NoAction, onUpdate: NoAction)
 }
 
 /// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
@@ -108,4 +109,21 @@ model plausible_rca {
   description String?
   severity    String?
   status      String?
+}
+
+model alert_state_log {
+  id             String       @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  alert_id       String       @db.Uuid
+  previous_state alert_state?
+  current_state  alert_state  @default(ALERT_WITHOUT_RCA)
+  comment        Json?        @default("{}")
+  created_at     DateTime?    @default(now()) @db.Timestamp(6)
+  alerts         alerts       @relation(fields: [alert_id], references: [id], onDelete: Cascade, onUpdate: NoAction)
+}
+
+enum alert_state {
+  ALERT_WITHOUT_RCA
+  ALERT_WITH_RCA
+  ALERT_REJECTED_BY_USER
+  ALERT_ACCEPTED_BY_USER
 }
