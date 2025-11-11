@@ -1,7 +1,7 @@
 import prisma from '../prisma/client.js';
 import axios from 'axios';
 import { Pool } from 'pg';
-
+import { validate as uuidValidate } from "uuid";
 
 const TALK_TO_DATA = 'http://10.110.98.4:8002/api/v1/submit/anomaly'; // your backend API
 
@@ -46,7 +46,7 @@ const API_URL = 'http://10.110.98.4:8002/api/v1/submit/analyze'; // your backend
 // GET all triggers
 export const getRCAInsights = async (query, address, city, state, postal_code, start_date, end_date) => {
   const res = await axios.post(API_URL, {
-    "site_address":address + ", " + city + ", " + state + " " + postal_code,
+    "site_address": address + ", " + city + ", " + state + " " + postal_code,
     "anomaly": query,
     "start_date": start_date,
     "end_date": end_date
@@ -110,8 +110,8 @@ export const addManualRCA = async (req, res) => {
     const newRCA = await prisma.alert_rca.create({
       data: {
         alert_id,
-        summary:rca,
-        root_cause:rca_type,
+        summary: rca,
+        root_cause: rca_type,
         originator: 'Human',
       }
     });
@@ -120,5 +120,75 @@ export const addManualRCA = async (req, res) => {
   } catch (error) {
     console.error("Error adding manual RCA:", error);
     res.status(500).json({ error: "Internal server error", details: error.message });
+  }
+};
+
+export const getStateHistory = async (req, res) => {
+  try {
+    const { alert_id } = req.query;
+
+    if (alert_id && !uuidValidate(alert_id)) {
+      return res.status(400).json({ error: "Invalid alert_id UUID format" });
+    }
+
+    let history;
+
+    if (alert_id) {
+      history = await prisma.alert_state_log.findMany({
+        where: { alert_id },
+        orderBy: { created_at: "desc" }
+      });
+
+    } else {
+      history = await prisma.alert_state_log.findMany({
+        orderBy: { created_at: "desc" }
+      });
+    }
+    if (history.length === 0) {
+      return res.status(404).json({
+        success: false,
+        message: alert_id ? `No state history found for alert_id: ${alert_id}` : "No alert state history found"
+      });
+    }
+    return res.json(history);
+  } catch (error) {
+    return res.status(500).json({
+      error: "Internal server error",
+      details: error.message || "Unknown Error"
+    });
+  }
+};
+
+export const addStateHistory = async (req, res) => {
+  try {
+    const { alert_id, current_state, comment } = req.body;
+
+    if (!alert_id || !current_state) {
+      return res.status(400).json({ error: "Missing required fields: alert_id, current_state" });
+    }
+
+    if (alert_id && !uuidValidate(alert_id)) {
+      return res.status(400).json({ error: "Invalid alert_id UUID format" });
+    }
+
+    const lastState = await prisma.alert_state_log.findFirst({
+      where: { alert_id },
+      orderBy: { created_at: "desc" }
+    });
+
+    const previous_state = lastState ? lastState.current_state : null;
+
+    const newStateLog = await prisma.alert_state_log.create({
+      data: {
+        alert_id,
+        previous_state,
+        current_state,
+        comment: comment || null
+      }
+    });
+
+    res.status(201).json(newStateLog);
+  } catch (error) {
+    res.status(500).json({ error: "Internal server error", details: error.message || "Unknown Error" });
   }
 };
