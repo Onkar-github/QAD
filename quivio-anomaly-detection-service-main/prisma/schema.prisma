@@ -12,7 +12,7 @@ model triggers {
   id             String    @id @db.Uuid
   triggername    String?
   prompt         String?
-  category       String?
+  tag            String?
   createdAt      DateTime  @default(now()) @db.Timestamp(6)
   lasttriggered  DateTime? @db.Timestamp(6)
   promptoverview String?

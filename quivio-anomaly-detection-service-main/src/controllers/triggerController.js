@@ -17,7 +17,7 @@ export const getTriggers = async (req, res) => {
 // POST create a trigger
 export const createTrigger = async (req, res) => {
   try {
-    const { triggername, prompt, category,frequency, lasttriggered } = req.body;
+    const { triggername, prompt, tag, frequency, lasttriggered } = req.body;
     const id = uuidv4();
     
     // const promptoverview = await fetchOpenAIResponse(
@@ -33,7 +33,7 @@ export const createTrigger = async (req, res) => {
         id,
         triggername,
         prompt,
-        category,
+        tag,
         frequency,
         lasttriggered,
         promptoverview,
